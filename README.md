@@ -1,3 +1,3 @@
-# Malaysia Ethnic Library
+# Malaysia Demographics Library
 
-A JavaScript library for various MAlaysian race/ethnic utility functions.
+A JavaScript library for various Malaysian race/ethnic utility functions.

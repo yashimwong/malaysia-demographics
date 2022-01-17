@@ -2,6 +2,8 @@
   "name": "malaysia-demographics",
   "version": "0.0.1",
   "description": "A utility library for Malaysian demographics.",
+  "homepage": "https://github.com/yashimwong/malaysia-demographics",
+  "repository": "github:yashimwong/malaysia-demographics",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +12,8 @@
     "malaysia",
     "ethnic",
     "demographics",
-    "race"
+    "race",
+    "bumiputera"
   ],
   "author": {
     "name": "Yashim Wong",
