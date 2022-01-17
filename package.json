@@ -1,7 +1,7 @@
 {
-  "name": "malaysia-ethnic",
+  "name": "malaysia-demographics",
   "version": "0.0.1",
-  "description": "Utility",
+  "description": "A utility library for Malaysian demographics.",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,7 @@
   "keywords": [
     "malaysia",
     "ethnic",
-    "bangsa",
+    "demographics",
     "race"
   ],
   "author": {
