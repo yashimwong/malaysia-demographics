@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "lib": ["ESNext"],
+        "noImplicitAny": true,
+        "pretty": true,
+        "skipLibCheck": true,
+        "strict": true,
+        "traceResolution": false,
+        "types": ["node", "jest"]
+    },
+    "compileOnSave": false,
+    "exclude": ["node_modules", "dist"]
+}
